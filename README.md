@@ -1,3 +1,3 @@
-Mchine Learning
+Machine Learning
 
 
